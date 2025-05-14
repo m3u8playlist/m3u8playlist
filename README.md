@@ -9,9 +9,9 @@
 - 📫 How to reach me: ...
   
 ## Some Statistics About Me
-![m3u8playlist's github stats](https://github-readme-stats.vercel.app/api?username=m3u8playlist)
+![m3u8playlist's github stats](https://github-readme-stats.vercel.app/api?username=m3u8playlist) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3u8playlist)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3u8playlist)
+
 
 
 
