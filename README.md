@@ -1,5 +1,5 @@
 ## Hi there 👋
-+ ![m3u8playlist](https://komarev.com/ghpvc/?username=m3u8playlist)
+ ![m3u8playlist](https://komarev.com/ghpvc/?username=m3u8playlist)
 
 - 🔭 Software&Hardware Engineer
 - 🌱 Photoshop&Photography
